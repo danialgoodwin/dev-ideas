@@ -11,6 +11,19 @@ A website that generates music based on query parameters. It could play when the
 
 
 
+## League Manager
+Pages:
+- CreateLeague: weekly, daily, or custom days,, same times each day or custom, same numberOfCourts or custom
+
+Random note:
+- To solve the league manager issue, need to use a matrix-like thought process and backtracking if no good solution
+
+Name ideas:
+- Maybe buy: leagueisland, team...
+- Volleyball league organizer, league manager, league smart, league ai, 
+
+
+
 ## Auto-generated art for t-shirts (and more)
 There are tools available to use AI to create many different types of art. Use some to create physical items to sell. Perhaps make it easy for users to adjust some parameters to have their own unique art. Maybe allow them to download that art (if they buy something), or allow them to save it in an account that they make.
 
